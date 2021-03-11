@@ -1,6 +1,4 @@
-# modelo_espectral
-
-Mineração de dados espectrais com bibliotecas Scikit Learn e computação na nuvem 
+# Mineração de dados espectrais com bibliotecas Scikit Learn e computação na nuvem 
 
 Claudio R. O. da Silva¹
 
